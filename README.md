@@ -1,12 +1,155 @@
-- 👋 Hi, I’m @sayarsamanta
-- I am a seasoned React Native developer with 7 years of professional experience building scalable, user-friendly mobile applications. My expertise lies in crafting cross-platform solutions, optimizing performance, and delivering high-quality apps that meet user needs and business goals.
-Eager to expand my skill set, I am currently exploring React.js and Node.js to transition into a successful MEAN stack developer. My goal is to leverage my mobile development expertise while deepening my understanding of backend and full-stack development to build end-to-end, impactful solutions. I am passionate about continuous learning, staying updated with the latest technologies, and collaborating on innovative projects.
-- 👀 I’m interested in Machine learning, Data Science, Deep learning and Artificial inteliigence
-- 🌱 I’m currently working as senior mobile application developer
-- 💞️ I’m looking to collaborate on full stack mobile development
-- 📫 How to reach me sayarsamanta@gmail.com or 9740144475 or https://www.linkedin.com/in/sayarsamanta/
+<h1 align="center">Hi 👋, I'm Sayar Samanta</h1>
 
-<!---
-sayarsamanta/sayarsamanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="center">
+Full Stack JavaScript Developer | React | Node.js | System Design Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, clean UI systems, and modern full-stack platforms.
+</p>
+
+
+# 🚀 About Me
+
+I am a **Full Stack JavaScript Developer** focused on building scalable and well-structured web applications using modern technologies.
+
+I enjoy designing systems that combine:
+
+• clean architecture  
+• efficient state management  
+• responsive user interfaces  
+• scalable backend APIs  
+
+My development philosophy revolves around **building maintainable systems rather than just writing code**.
+
+Currently I am focused on improving expertise in:
+
+- Advanced **React architecture**
+- **Redux state management patterns**
+- **Backend API design**
+- **System scalability**
+- **Cloud deployments**
+
+
+# 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,vite,tailwind,js,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker" />
+</p>
+
+
+# 🧠 Development Philosophy
+
+I believe great software comes from combining:
+
+- **Clean architecture**
+- **Reusable components**
+- **Scalable system design**
+- **Readable and maintainable code**
+
+My workflow focuses on:
+
+- modular folder structures
+- optimized state management
+- performance-aware frontend design
+- well-structured backend APIs
+
+
+# 📌 Featured Project
+
+## 🚀 Dynamic Developer Portfolio Platform
+
+A **modern full-stack developer portfolio system** with an integrated **admin dashboard** that allows dynamic content management.
+
+Unlike traditional static portfolios, this platform acts as a **mini CMS for developer portfolios**.
+
+### Key Features
+
+- Dynamic portfolio management
+- Admin dashboard
+- Project & experience management
+- Responsive UI
+- Smooth animations
+- Redux based state management
+- Scalable backend API
+
+### Tech Stack
+
+Frontend  
+React • Redux Toolkit • Tailwind • Framer Motion • Vite  
+
+Backend  
+Node.js • Express.js
+
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=sayarsamanta&theme=tokyonight" />
+
+</p>
+
+
+# 🚀 Current Focus
+
+Currently working on:
+
+- Advanced **portfolio platform architecture**
+- Scalable **Redux state management**
+- Production ready **backend APIs**
+- **AWS deployment workflows**
+- Building more **real world full-stack systems**
+
+
+# 🌱 Learning Journey
+
+I continuously explore and learn about:
+
+- System design
+- Cloud infrastructure
+- Backend performance optimization
+- Advanced frontend patterns
+- Scalable application development
+
+
+# 🎯 Long Term Goal
+
+To build **production-grade systems** that demonstrate:
+
+- strong engineering practices
+- scalable architecture
+- excellent user experience
+- maintainable codebases
+
+
+# 📫 Connect With Me
+
+GitHub  
+https://github.com/yourusername
+
+Portfolio  
+(Your Portfolio Link)
+
+
+⭐ Thanks for visiting my profile!
