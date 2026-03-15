@@ -146,10 +146,10 @@ To build **production-grade systems** that demonstrate:
 # 📫 Connect With Me
 
 GitHub  
-https://github.com/yourusername
+https://github.com/sayarsamanta
 
 Portfolio  
-(Your Portfolio Link)
+coming soon
 
 
 ⭐ Thanks for visiting my profile!
